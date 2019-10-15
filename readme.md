@@ -2,7 +2,7 @@
 <p> So basically, because i couldn't actually help (because there wasn't enough time to teach me how to)
 i was tasked with coming up with a project to do while in the internship and making it.<br></p>
 <p><strong>This is that project</strong><br></p>
-<h2>The concept.</h2>
+<h2>The concept</h2>
 <p>Have an Arduino record the temperature and humidity, send that information to my computer
 and put it all in a database. Have an simple web server running that displays the information.
 I originally wanted a nice interface with a graph and everything, but i lost motivation while
