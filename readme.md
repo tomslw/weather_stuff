@@ -7,7 +7,7 @@ i was tasked with coming up with a project to do while in the internship and mak
 and put it all in a database. Have an simple web server running that displays the information.
 I originally wanted a nice interface with a graph and everything, but i lost motivation while
 looking into how i could actually do that and the the fact that all the http libraries that i found make
-it a little more time consuming to display an actual html page than id like didn't help. I am lazy i guess
+it a little more time consuming to display an actual html page didn't help. I am lazy i guess
 and don't care that much about that right now. So a simple list of thing will do. Don't judge me.<br></p>
 <h2> My goals </h2>
 <ul>
