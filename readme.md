@@ -22,4 +22,5 @@ and don't care that much about that right now. So a simple list of thing will do
   <li> <a href="https://www.sqlite.org/index.html">SQlite (for the database)</a> </li>
   <li> <a href="https://github.com/etr/libhttpserver">HTTP server (library)</a> </li>
   <li> <a href="https://github.com/xanthium-enterprises/Serial-Port-Programming-on-Linux/blob/master/USB2SERIAL_Read/Reciever%20(PC%20Side)/SerialPort_read.c"> Not a library or software but i referenced this a lot when making the serial thing</a> </li>
+  <li> <a href="https://www.linuxmint.com/">Linux Mint 19 (this wont work on Windows)</a> </li>
 </ul>
